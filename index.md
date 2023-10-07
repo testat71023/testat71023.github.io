@@ -1,10 +1,21 @@
-hello this is just a testing page
-
 # This is our video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zuoVd2QNxJo?si=c-r2k99zo6xFgYUu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
   
 </iframe>
 
-# This is word introduction
-![image](https://github.com/testat71023/testat71023.github.io/assets/137245515/aa2b8d32-ca54-4e05-b9c5-2fd83441a543)
+# Let us know more about IoT
+## What is Iot?
+The [Internet of Things (IoT)]() refers to the network of physical devices, vehicles, appliances, and other items embedded with sensors, software, and other technologies that enable them to connect, collect, and exchange data over the internet. These devices can be remotely monitored and controlled, allowing for increased automation, integration, and communication between physical objects and digital systems. The goal of IoT is to create a smarter, more interconnected world where devices can operate more autonomously and provide valuable insights through the data they generate.
+
+##The Periods IoT Developed
+The concept of IoT originated in the 1980s and 1990s with the advent of wireless networks and RFID technology. Kevin Ashton coined the term "Internet of Things" in 1999, emphasizing the potential of connecting physical objects to the internet. The early 2000s saw the proliferation of wireless technologies and sensors, making IoT more feasible. By 2008, the number of devices connected to the internet surpassed the global human population. The introduction of IPv6 in the 2010s further facilitated the growth of IoT due to its vast address space. Today, with advancements in 5G, AI, and edge computing, IoT continues to expand, integrating deeper into daily life and industries.
+
+## The Future IoT Has in Real Life
+The economic prospects of the IoT industry are robust. As IoT adoption accelerates, it's poised to generate trillions in economic value. Key sectors like healthcare, agriculture, transportation, and manufacturing will see increased efficiency and new revenue streams. The rise of smart cities will lead to infrastructure and service optimization, saving costs and spurring innovation. Consumer markets will flourish with smart homes and wearables. However, investments in infrastructure, R&D, and cybersecurity will be crucial. Collaborations between tech firms, governments, and industries will drive standardization and growth. Overall, IoT promises significant economic growth, job creation, and industry transformation.
+
+# IoT with Blockchain Applications
+The fusion of IoT and blockchain is revolutionizing daily life by enhancing security, transparency, and decentralization. In supply chain management, this combination ensures real-time tracking of products, verifying their authenticity and origin. In agriculture, sensors monitor crop health, while blockchain provides traceability from farm to table. Smart homes benefit from automated devices that securely exchange data via blockchain, ensuring user privacy. Energy sectors employ this duo for optimizing consumption through smart grids and facilitating peer-to-peer energy trading. In healthcare, patient metrics from wearable devices are securely and immutably stored on blockchain. Smart cities utilize IoT for traffic and infrastructure management, with blockchain ensuring transparent data handling. Lastly, the automotive industry sees connected vehicles sharing data securely and automating processes like parking payments through blockchain. This integration promises a more trustworthy and efficient future in various daily life aspects.
+
+# Potential Risks from IoT Security Lacks
+IoT security vulnerabilities can lead to significant losses, including financial theft due to unauthorized access to sensitive data. Personal and corporate data breaches can result in privacy violations and misuse. Vulnerabilities in medical or automotive IoT can cause physical harm or fatalities. Service disruptions, especially in critical infrastructure, can pose widespread threats. Additionally, businesses may suffer reputational damage, operational downtime, and legal penalties following data breaches. The compromise of intellectual property can also lead to competitive disadvantages. Overall, IoT security lapses can have severe financial, physical, and reputational consequences.
